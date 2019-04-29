@@ -1,5 +1,4 @@
 module.exports = {
-  plugins: ['stylelint-order'],
   rules: Object.assign({}, ...[
     './rules/at-rule',
     './rules/block',
