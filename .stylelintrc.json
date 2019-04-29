@@ -1,5 +1,5 @@
 {
   "plugins": ["stylelint-order"],
-  "extends": "./src/assets/styling/stylelint.config.js",
+  "extends": "./src/assets/styling/index.js",
   "ignoreFiles": ["**/*.js", "**/*.jsx"]
 }
